@@ -10,7 +10,7 @@ The dataset is a random list of neighbourhoods in Toronto, which will serve to r
 
 ## Shape Files
 
-Shape files are used to draw the map of the city of Toronto. These can be obtained from the [Neighbourhoods dataset of The City of Toronto Open Data Initiative](https://open.toronto.ca/dataset/neighbourhoods/)
+Data Source: Shape files under the forAnalysis folder from Neighbourhoods dataset of The City of Toronto Open Data Initiative
 
-For convenience, the shape files from that link have been included in this repository, under the forAnalysis folder. 
+Other data is hypotetical data set.
 
